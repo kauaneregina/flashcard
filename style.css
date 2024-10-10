@@ -1,10 +1,5 @@
-<link rel="stylesheet" href="assets/style.css">
 body {
     background-color: bisque;
-}
-footer {
-    background-color: black;
-    color: white;
 }
 footer {
     background-color: black;
@@ -20,11 +15,6 @@ footer p{
 height:2rem;
 margin-top: 0,5rem;
 font-family: Bai Jamjuree;
-
-
-#container {
-
-}
 
 #container {
     display: flex;
